@@ -1,0 +1,21 @@
+{
+  "name": "oil",
+  "displayName": "Oil",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oil",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Oil-color-theme.json"
+      }
+    ]
+  }
+}
